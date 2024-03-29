@@ -9,3 +9,6 @@
 
 The Operating System of Gao
 
+### Install ISO
+
+Download from [here](https://github.com/Gao-OS/installer/releases)
