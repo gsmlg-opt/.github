@@ -25,13 +25,16 @@ def generate_readme(org_name, repos):
     """Generates the README content."""
     readme = f"# Welcome to the {org_name} organization!\n\n"
     readme += "This is a list of our public repositories:\n\n"
-    readme += "| Repository | Description |\n"
-    readme += "|------------|-------------|\n"
+    readme += "| Repository | Description | Language | Stars | Forks |\n"
+    readme += "|------------|-------------|----------|-------|-------|\n"
     for repo in sorted(repos, key=lambda r: r['name']):
-        if not repo['private']:
+        if not repo['private'] and repo['name'] != ".github":
             repo_name = repo['name']
             repo_desc = repo['description'] if repo['description'] else "No description provided."
-            readme += f"| [{repo_name}]({repo['html_url']}) | {repo_desc} |\n"
+            language = repo['language'] if repo['language'] else ""
+            stars = repo['stargazers_count']
+            forks = repo['forks_count']
+            readme += f"| [{repo_name}]({repo['html_url']}) | {repo_desc} | {language} | {stars} | {forks} |\n"
 
     readme += "\n\n---\n*This README is automatically generated every week.*"
     return readme
