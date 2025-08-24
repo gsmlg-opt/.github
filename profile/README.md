@@ -4,8 +4,8 @@ This is a list of our public repositories:
 
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [singlecloud](https://github.com/gsmlg-opt/singlecloud) | No description provided. |  | 0 | 0 |
-| [singlecloud-ui](https://github.com/gsmlg-opt/singlecloud-ui) | No description provided. |  | 0 | 0 |
+| [GaoCloud](https://github.com/gsmlg-opt/GaoCloud) | No description provided. |  | 0 | 0 |
+| [GaoCloud-UI](https://github.com/gsmlg-opt/GaoCloud-UI) | No description provided. | JavaScript | 0 | 0 |
 
 
 ---
