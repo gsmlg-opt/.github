@@ -8,6 +8,7 @@ This is a list of our public repositories:
 | [Samgita](https://github.com/gsmlg-opt/Samgita) | Samgita (संगीत) | Elixir | 0 | 0 |
 | [Singularity](https://github.com/gsmlg-opt/Singularity) | No description provided. | Elixir | 0 | 0 |
 | [Synapsis](https://github.com/gsmlg-opt/Synapsis) | No description provided. | Elixir | 0 | 0 |
+| [agent-note](https://github.com/gsmlg-opt/agent-note) | Agent note: Rust note server with MCP, embedding, and Yew frontend | Rust | 0 | 0 |
 | [backplane](https://github.com/gsmlg-opt/backplane) | No description provided. | Elixir | 0 | 0 |
 | [claude-code](https://github.com/gsmlg-opt/claude-code) | No description provided. | TypeScript | 2 | 0 |
 | [ex_storage_service](https://github.com/gsmlg-opt/ex_storage_service) | No description provided. | Elixir | 0 | 0 |
