@@ -4,7 +4,7 @@ This is a list of our public repositories:
 
 | Repository | Description | Language | Stars | Forks |
 |------------|-------------|----------|-------|-------|
-| [Fornacast](https://github.com/gsmlg-opt/Fornacast) | This project aims to replace the current local Git management and deployment software gitea/forgejo. | Elixir | 1 | 0 |
+| [Fornacast](https://github.com/gsmlg-opt/Fornacast) | This project aims to replace the current local Git management and deployment software gitea/forgejo. | Elixir | 2 | 0 |
 | [Samgita](https://github.com/gsmlg-opt/Samgita) | Samgita (संगीत) | Elixir | 0 | 0 |
 | [Singularity](https://github.com/gsmlg-opt/Singularity) | No description provided. | Elixir | 0 | 0 |
 | [Synapsis](https://github.com/gsmlg-opt/Synapsis) | No description provided. | Elixir | 0 | 0 |
